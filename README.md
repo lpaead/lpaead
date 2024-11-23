@@ -13,6 +13,13 @@
     </a>
 </div> <br><br><br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpaead)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpaead)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=lpaead&theme=oldie&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
