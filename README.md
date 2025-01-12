@@ -1,3 +1,4 @@
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Kim%20Eun%20Ock&desc&fontSize=80&descAlignY=65&fontColor=000000)
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2> <br>
@@ -20,7 +21,7 @@
       /\_/\             / \__
      ( o.o )           (    @\___
       > ^ <            /         O
-     (     )          /   (_____/
+     (     )          /   (_____/     🦴
                       
          
 ![](./profile-3d-contrib/profile-green-animate.svg)
